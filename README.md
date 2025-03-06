@@ -31,3 +31,6 @@ The **Quora Clone** is a question-and-answer platform developed using **HTML, CS
 - **Templating Engine:** EJS for dynamic rendering  
 
 This project demonstrates the creation of an interactive and dynamic web application using a straightforward tech stack, focusing on delivering essential features for user engagement..
+
+
+
